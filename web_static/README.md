@@ -1,5 +1,1 @@
-$Massage
-$Massage
-$Massage
-$Massage
-$Massage
+This directory implements webpage design.
